@@ -10,7 +10,7 @@ exports.components = {
   "component---src-pages-beers-js": hot(preferDefault(require("/Users/laceysavage/sites/personalProjects/masterGatsby/slickSlices/gatsby/src/pages/beers.js"))),
   "component---src-pages-index-js": hot(preferDefault(require("/Users/laceysavage/sites/personalProjects/masterGatsby/slickSlices/gatsby/src/pages/index.js"))),
   "component---src-pages-orders-js": hot(preferDefault(require("/Users/laceysavage/sites/personalProjects/masterGatsby/slickSlices/gatsby/src/pages/orders.js"))),
-  "component---src-pages-pizza-js": hot(preferDefault(require("/Users/laceysavage/sites/personalProjects/masterGatsby/slickSlices/gatsby/src/pages/pizza.js"))),
+  "component---src-pages-pizzas-js": hot(preferDefault(require("/Users/laceysavage/sites/personalProjects/masterGatsby/slickSlices/gatsby/src/pages/pizzas.js"))),
   "component---src-pages-slicemasters-js": hot(preferDefault(require("/Users/laceysavage/sites/personalProjects/masterGatsby/slickSlices/gatsby/src/pages/slicemasters.js")))
 }
 
