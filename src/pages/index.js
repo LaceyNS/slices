@@ -5,7 +5,7 @@ export default function HomePage() {
   return (
     <div>
       <Nav />
-      <p>Hey! I'm the home page</p>
+      <p>Hey! I'm the Home page</p>
     </div>
   );
 }
