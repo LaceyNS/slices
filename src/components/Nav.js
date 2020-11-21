@@ -5,6 +5,9 @@ import Logo from './Logo';
 
 const NavStyles = styled.nav`
   margin-bottom: 3rem;
+  .logo {
+    transform: translateY(-25%);
+  }
   ul {
     margin: 0;
     padding: 0;
@@ -14,6 +17,7 @@ const NavStyles = styled.nav`
     grid-template-columns: 1fr 1fr auto 1fr 1fr;
     grid-gap: 2rem;
     align-items: center;
+    margin-top: -6rem;
   }
   li {
     --rotate: -2deg;
@@ -38,6 +42,10 @@ const NavStyles = styled.nav`
     &:hover {
       color: var(--red);
     }
+    /* If I wanted to have the link of the current page indicated I would use this */
+    /* &[aria-current='page'] {
+      color: var(--red);
+    } */
   }
 `;
 
